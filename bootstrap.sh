@@ -40,8 +40,11 @@ fi
 
 cd "$WORKDIR"
 
-echo "==> Installing apps and tools from Brewfile..."
+echo "==> Installing core apps and tools from Brewfile..."
 brew bundle --file=Brewfile
+
+echo "==> Selecting optional apps and code editor..."
+./select-apps.sh
 
 echo "==> Applying macOS defaults..."
 ./macos-defaults.sh
