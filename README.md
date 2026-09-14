@@ -25,6 +25,35 @@ cd setup-script
 3. Runs `brew bundle` against the `Brewfile` to install CLI tools and apps
 4. Applies macOS system defaults (`macos-defaults.sh`)
 
+## What gets installed
+
+CLI tools:
+
+- git
+- gh
+
+Apps:
+
+- 1Password
+- Arc
+- Canva
+- Claude
+- Fantastical
+- Figma
+- Linear
+- Loom
+- Miro
+- Notion
+- Obsidian
+- Raycast
+- Signal
+- Slack
+- Spark
+- Tailscale
+- Tidal
+- WhatsApp
+- Zed
+
 ## Not included
 
 - Rippling — no Homebrew cask; install from rippling.com or the App Store
