@@ -41,7 +41,9 @@ fi
 cd "$WORKDIR"
 
 echo "==> Installing core apps and tools from Brewfile..."
-brew bundle --file=Brewfile
+if ! brew bundle --file=Brewfile; then
+  echo "==> Warning: one or more core apps failed to install (see above). Continuing with setup."
+fi
 
 echo "==> Selecting optional apps and code editor..."
 ./select-apps.sh
