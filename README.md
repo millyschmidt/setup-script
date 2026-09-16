@@ -67,6 +67,7 @@ Code editor (you'll be prompted to pick one, or skip):
 ## Not included
 
 - Rippling — no Homebrew cask; install from rippling.com or the App Store
+- Attio — no Homebrew cask; it's web-based, use it at attio.com
 - Pages, Numbers, Keynote, GarageBand, iMovie — pre-bundled with macOS or via the Mac App Store, not brew-installable
 
 ## Adding new apps or tools

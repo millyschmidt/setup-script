@@ -19,4 +19,5 @@ cask "tailscale-app"
 #   by select-apps.sh (Tidal, WhatsApp, Spark, Signal, Obsidian, Fantastical,
 #   Arc, Raycast, and a choice of VS Code / Zed / Cursor / PhpStorm).
 # - Rippling: no Homebrew cask; install from rippling.com or the App Store
+# - Attio: no Homebrew cask; it's web-based, use it at attio.com
 # - Pages, Numbers, Keynote, GarageBand, iMovie: pre-bundled with macOS or via Mac App Store
