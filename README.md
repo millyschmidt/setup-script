@@ -39,6 +39,7 @@ Core apps (always):
 - Canva
 - Claude
 - Figma
+- Google Chrome
 - Linear
 - Loom
 - Miro
