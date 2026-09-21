@@ -20,6 +20,7 @@ PERSONAL_APPS=(
   "Fantastical:fantastical"
   "Arc:arc"
   "Raycast:raycast"
+  "Logi Options+:logi-options+"
 )
 
 EDITORS=(

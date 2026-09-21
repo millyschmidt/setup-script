@@ -57,6 +57,7 @@ Optional personal apps (you'll be prompted for each, y/N):
 - Fantastical
 - Arc
 - Raycast
+- Logi Options+
 
 Code editor (you'll be prompted to pick one, or skip):
 
