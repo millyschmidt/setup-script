@@ -14,6 +14,7 @@ cask "miro"
 cask "notion"
 cask "slack"
 cask "tailscale-app"
+cask "zoom"
 
 # Not included here:
 # - Optional personal apps and code editor choice are handled interactively

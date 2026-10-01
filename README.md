@@ -46,6 +46,7 @@ Core apps (always):
 - Notion
 - Slack
 - Tailscale
+- Zoom
 
 Optional personal apps (you'll be prompted for each, y/N):
 
